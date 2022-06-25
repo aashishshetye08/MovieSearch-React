@@ -1,7 +1,8 @@
 # Movie Search using React
 
-## For Demo
-Check out this [link](https://moviesearch-reactjs.netlify.app/). ***Make minimum possible requests for Rapid API's hard limit is 50 requests/month!***.
+## Demo
+![](images/ss1.PNG)
+![](images/ss2.PNG)
 
 ### To Run the App 
 1. Clone the repository
